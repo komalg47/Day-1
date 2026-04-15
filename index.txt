@@ -1,0 +1,8 @@
+Q1: What is Java?
+A: Java is an object-oriented programming language.
+
+Q2: What is JVM?
+A: Java Virtual Machine.
+
+Q3: What is OOP?
+A: Object-Oriented Programming.
